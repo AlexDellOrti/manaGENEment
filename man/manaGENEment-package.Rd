@@ -62,6 +62,14 @@ lnc <- lncRNAGene(
 len_lnc <- lengthProduct(lnc)
 print(len_lnc)
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/AlexDellOrti/manaGENEment}
+  \item Report bugs at \url{https://github.com/AlexDellOrti/manaGENEment/issues}
+}
+
+}
 \author{
 Alexander Dell'Orti \cr
 Politecnico di Milano\cr

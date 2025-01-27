@@ -24,6 +24,9 @@ Suggests:
     roxygen2,
     knitr,
     rmarkdown
+BiocViews: GeneExpression, Transcriptomics, GenomicRanges
+URL: https://github.com/AlexDellOrti/manaGENEment
+BugReports: https://github.com/AlexDellOrti/manaGENEment/issues
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 VignetteBuilder: knitr
