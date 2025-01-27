@@ -1,7 +1,7 @@
 
 # manaGENEment
 
-**manaGENEment** is an R package designed for the management and analysis of various gene types, including protein-coding genes, long non-coding RNA (lncRNA) genes, and microRNA (miRNA) genes. It provides a framework for creating gene objects, extracting and edit their attributes, and performing length computations essential for genomic studies.
+**manaGENEment** is an R package designed for the management and analysis of various gene types, including protein-coding genes, long non-coding RNA (lncRNA) genes, and microRNA (miRNA) genes, as project for the Scientific Programming exam of BCG course at Politecnico di Milano. It provides a framework for creating gene objects, extracting and edit their attributes, and performing length computations essential for genomic studies.
 
 ## Features
 
