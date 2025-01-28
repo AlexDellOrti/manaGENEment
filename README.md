@@ -42,6 +42,7 @@ Attributes:
  - **geneStructure**: GRanges object detailing the gene’s genomic structure.
  - **RnaID**: Character string for the RNA identifier.
  - **RnaSEQ**: RNAString object containing the RNA sequence.
+
 Methods:
  - **getGeneID()**: Retrieves the geneID of the gene.
  - **setGeneID(newID: character)**: Sets a new geneID for the gene.
@@ -53,6 +54,7 @@ Attributes:
  - (Inherits all attributes from Gene)
  - **proteinID**: Character string for the protein identifier.
  - **proteinSEQ**: AAString object containing the protein sequence.
+
 Methods:
  - **getProteinID()**: Retrieves the proteinID.
  - **getProteinSEQ()**: Retrieves the proteinSEQ.
@@ -61,6 +63,7 @@ Methods:
 #### lncRNAGene
 Attributes:
  - (Inherits all attributes from Gene)
+
 Methods:
  - **lengthProduct()**: Computes the length of the RNA sequence.
 
@@ -68,6 +71,7 @@ Methods:
 Attributes:
  - (Inherits all attributes from Gene)
  - **mirna_seed_SEQ**: RNAString object containing the miRNA seed sequence.
+
 Methods:
  - **getMirnaSeedSEQ()**: Retrieves the mirna_seed_SEQ.
  - **lengthProduct()**: Computes the length of the RNA sequence.
